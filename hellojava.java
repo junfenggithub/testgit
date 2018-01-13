@@ -1,6 +1,7 @@
 public class Git
 {
 	public static void main(String args[]){
-	System.out.println("lv","±¾µØÌá½»")£»
+	System.out.println("lv","Â±Â¾ÂµÃ˜ÃŒÃ¡Â½Â»")Â£Â»
+		hellojava.java
 	}
 }
